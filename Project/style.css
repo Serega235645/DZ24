@@ -1,0 +1,29 @@
+#canvas
+{
+    background-color:#30c0df;
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    padding: auto;
+    
+}
+
+h1{
+    font-family: initial;
+    font-size: 40px;
+    color: rgb(255, 166, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ 
+}
+
+p{
+    color: crimson;
+    
+}
+
+a{
+    color: lightsalmon;
+}

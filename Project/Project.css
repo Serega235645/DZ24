@@ -1,0 +1,29 @@
+h1{
+   font-family: initial;
+   font-size: 40px;
+   color: springgreen;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+
+}
+
+*{
+   padding: 0;
+   margin: 0;
+}
+
+canvas{
+   background: #eee;
+}
+
+p{
+   color: gold;
+   
+   
+}
+
+a{
+   color: greenyellow;
+}
